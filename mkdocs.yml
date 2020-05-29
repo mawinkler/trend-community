@@ -13,12 +13,12 @@ edit_uri: ""
 # Theme configuration
 theme:
   name: "material"
-  logo: "https://github.com/mawinkler/trend-community/images/icon.svg"
-  icon: "https://github.com/mawinkler/trend-community/images/icon.svg"
+  logo: "https://github.com/mawinkler/trend-community/images/trend-laurel-wreath.400x400.svg"
+  icon: "https://github.com/mawinkler/trend-community/images/trend-laurel-wreath.400x400.svg"
   language: "en"
   palette:
-    primary: "light-blue"
-    accent: "pink"
+    primary: "red"
+    accent: "red"
   feature:
     tabs: false
 extra_css:
