@@ -83,7 +83,7 @@ _Applications developed for demoing and testing purposes._
 - [Django](https://github.com/mawinkler/c1-app-sec-djangonv) - This is a sample, vulnerable-on-purpose, Django application.
 - [MoneyX](https://github.com/mawinkler/c1-app-sec-moneyx) - This is a sample, vulnerable-on-purpose, Java Spring application.
 - [Uploader](https://github.com/mawinkler/c1-app-sec-uploader) - This is a sample, vulnerable-on-purpose, PHP application.
-- [Troopers](https://github.com/mawinkler/troopers) - This is a sample Flask application with a vulnerable-on-purpose base image and malicious image files.
+- [Troopers](https://github.com/mawinkler/troopers) - This is a sample Flask application with a vulnerable-on-purpose base image and a malicious image file.
 
 ## Vulnerability Management
 
