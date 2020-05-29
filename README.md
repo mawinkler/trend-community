@@ -11,7 +11,7 @@
 Trend Micro offers multiple solutions helping to secure IT within different aspects of DevOps, Cloud Transition and Compliance challenges. Many of the solutions are providing the possibility to get automated by the use of APIs.
 
 Awesome Trend Community is a curated list of awesome
-[Trend Micro](https://www.trendmicro.com) resources, mainly developed and
+[Trend Micro](https://www.trendmicro.com) Solution focused scripts, tools and other resources, mainly developed and
 maintained by the power of the worldwide community of Trenders.
 
 The list is divided into categories. The links in those categories do not have
@@ -21,10 +21,13 @@ please read the [guide](https://github.com/mawinkler/trend-community/blob/master
 ## Contents
 
 - [How to use](#how-to-use)
-- [Installing](#installing)
+- [Cloud One](#cloud-one)
 - [In case you need help](#in-case-you-need-help)
   - [Official Channels](#official-channels)
   - [Other Channels](#other-channels)
+- [Learning](#learning)
+- [Demo and Testing](#demo-and-testing)
+- [Vulnerability Management](#vulnerability-management)
 - [Uncategorized](#uncategorized)
 - [Other Awesome Lists](#other-awesome-lists)
 - [Trademark Legal Notice](#trademark-legal-notice)
@@ -39,49 +42,62 @@ You can navigate through the list by:
 - Simply press <kbd>command/ctrl</kbd> + <kbd>F</kbd> to search for a keyword
 - Go through our [_Contents list_](#contents)
 
-## Installing
+## Cloud One
 
-Home Assistant has several installation / running methods. Many people have
-different opinions and their personal favorites. Each method has its
-advantages and disadvantages. Important to know, there is no wrong, or right here,
-each technique installs the **SAME** Home Assistant.
+Trend Micro Cloud One is a security services platform for cloud builders, designed to meet your cloud security needs today, and in the future. No matter where you are in your cloud journey, Trend Micro Cloud One has you covered with the broadest and deepest solutions.  From cloud migration projects to cloud native application delivery or cloud center of excellence driven objectives, you can rely on our automated, flexible, and all-in-one security.
 
-Home Assistant currently _recommends_ the Hass.io method.
+Cloud One currently _combines_ the following services into one solution:
 
-- [Hass.io](https://www.home-assistant.io/getting-started/) - Installing using a Docker managed environment (recommended method).
-- [Docker](https://www.home-assistant.io/docs/installation/docker/) - Installing on Docker.
-- [Manually](https://www.home-assistant.io/docs/installation/virtualenv/) - Manual installation using a Python virtual environment.
+- [Workload Security](https://www.trendmicro.com/en_us/business/products/hybrid-cloud/cloud-one-workload-security.html) - Runtime protection for workloads (virtual, physical, cloud, and containers).
+- [Container Security](https://www.trendmicro.com/en_us/business/products/hybrid-cloud/cloud-one-container-image-security.html) - Image scanning in your build pipeline.
+- [File Storage Security](https://www.trendmicro.com/en_us/business/products/hybrid-cloud/cloud-one-file-storage-security.html) - Security for cloud file and object storage services.
+- [Application Security](https://www.trendmicro.com/en_us/business/products/hybrid-cloud/cloud-one-application-security.html) - Security for serverless functions, APIs, and applications.
+- [Network Security](https://www.trendmicro.com/en_us/business/products/hybrid-cloud/cloud-one-network-security.html) - Cloud network layer IPS security.
+- [Conformity](https://www.trendmicro.com/en_us/business/products/hybrid-cloud/cloud-one-conformity.html) - Cloud security and compliance posture management.
 
 ## In case you need help
 
-_There are various ways to get in touch with the Home Assistant community.
+_There are various ways to get in touch with the Trend community.
 It doesn't matter if you have a question, need help, want to request a feature,
 or just say ‘Hi’._
 
 ### Official Channels
 
+- [Trend Micro](https://www.trendmicro.com/) - Trend Micro's official web site.
 - [GitHub Trend Micro Deep Security](https://github.com/deep-security/) - Official GitHub for Deep-Security driven by Trend Micro.
 
 ### Other Channels
 
-- [GitHub Trend Micro Deep Security](https://github.com/deep-security/) - Official GitHub for Deep-Security driven by Trend Micro.
+- [Contributors](https://github.com/deep-security/) - All contributors to this awesome list.
+
+## Learning
+_Environments for learninig, self-study and demoing._
+
+- [MOADSD-NG](https://github.com/mawinkler/moadsd-ng) - The MOADSD-NG project does provide a simple way to setup a hybrid cloud security demo, playground and learning environment within the clouds.
+- [MOADSD-NG-SERVER](https://github.com/mawinkler/moadsd-ng-server) - This repository provides a server container image for MOADSD-NG.
+
+## Demo and Testing
+
+_Applications developed for demoing and testing purposes._
+
+- [Django](https://github.com/mawinkler/c1-app-sec-djangonv) - This is a sample, vulnerable-on-purpose, Django application.
+- [MoneyX](https://github.com/mawinkler/c1-app-sec-moneyx) - This is a sample, vulnerable-on-purpose, Java Spring application.
+- [Uploader](https://github.com/mawinkler/c1-app-sec-uploader) - This is a sample, vulnerable-on-purpose, PHP application.
+- [Troopers](https://github.com/mawinkler/troopers) - This is a sample Flask application with a vulnerable-on-purpose base image and malicious image files.
+
+## Vulnerability Management
+
+_Tools and scripts in the scope of vulnerability management._
+
+- [Workload Security VM Integrations](https://github.com/mawinkler/vulnerability-management/tree/master/cloudone-workload-security) - Sample integrations of Workload Security with various vulnerability management tools.
+- [Image Security Reporting](https://github.com/mawinkler/vulnerability-management/tree/master/cloudone-image-security) - Reporting of Image Security to PDF with pipeline support.
+- [Image Security vs. Clair(ECR)](https://github.com/mawinkler/smartcheck-ecr-reporter) - Compares discovered vulnerabilities by Smart Check and Clair(ECR).
 
 ## Uncategorized
 
 _Valuable links, that don't fit in any of the above categories (yet!)._
 
-- [Room Assistant](https://github.com/mKeRix/room-assistant) - A companion client to handle sensors in multiple rooms.
-
-## Other Awesome Lists
-
-_Other amazingly awesome lists that can be found on the great and dangerous
-interwebs._
-
-- [awesome-smarthome](https://github.com/pfalcon/awesome-smarthome) - Curated list of awesome SmartHome/Home Automation things.
-- [awesome-iot](https://github.com/HQarroum/awesome-iot) - Curated list of awesome Internet of Things projects and resources.
-- [awesome-open-iot](https://github.com/Agile-IoT/awesome-open-iot) - Curated list of open source IoT frameworks, libraries and software.
-- [awesome-amazon-alexa](https://github.com/miguelmota/awesome-amazon-alexa#readme) - Curated list of awesome resources for the Amazon Alexa platform.
-- [awesome-mqtt](https://github.com/hobbyquaker/awesome-mqtt#readme) - Curated list of MQTT related stuff.
+- [YAML Specification](https://yaml.org/spec/1.2/spec.html) - YAML Ain’t Markup Language (YAML™) Version 1.2.
 
 ## Contributing
 
@@ -97,7 +113,7 @@ Thank you for being involved! 😍
 ## Trademark Legal Notice
 
 This Awesome list is not created, developed, affiliated, supported, maintained
-or endorsed by Trend Micro.
+or endorsed by the Trend Micro organization.
 
 All product names, logos, brands, trademarks and registered trademarks are
 property of their respective owners. All company, product, and service names
