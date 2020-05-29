@@ -1,28 +1,22 @@
 # Awesome Trend Community [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
 
 <div align="center">
-  <a href="https://awesome-ha.com">
-    <img width="400" src="https://www.awesome-ha.com/images/awesome-home-assistant.svg" alt="Awesome Trend Community">
+  <a href="https://github.com/mawinkler/trend-community/">
+    <img width="400" src="https://github.com/mawinkler/trend-community/blob/master/images/trend-laurel-wreath.400x400.png" alt="Awesome Trend Community">
   </a>
   <br>
-  <a href="https://awesome-ha.com"><strong>https://awesome-ha.com</strong></a>
+  <a href="https://github.com/mawinkler/trend-community/"><strong>https://github.com/mawinkler/trend-community/</strong></a>
 </div>
 
-Home Assistant is an open source home automation that puts local control and
-privacy first. Powered by a worldwide community of tinkerers and DIY
-enthusiasts. Perfect to run on a Raspberry Pi or a local server.
-
-If you want to get an impression on the look and feel,
-you should check out the [Home Assistant online demo](https://demo.home-assistant.io).
+Trend Micro offers multiple solutions helping to secure IT within different aspects of DevOps, Cloud Transition and Compliance challenges. Many of the sultutions are providing the possibilty to get automated by the use of APIs.
 
 Awesome Trend Community is a curated list of awesome
-[Home Assistant](https://www.home-assistant.io) resources.
-Additional software, tutorials, custom components, Hassio add-ons,
-custom Lovelace panels, cookbooks, example setups, and much more.
+[Trend Micro](https://www.trendmicro.com) resources, mainly developed and
+maintained by the power of the worldwide community of Trenders.
 
 The list is divided into categories. The links in those categories do not have
 pre-established order; the order is for contribution. If you want to contribute,
-please read the [guide](https://github.com/frenck/awesome-home-assistant/blob/master/CONTRIBUTING.md).
+please read the [guide](https://github.com/mawinkler/trend-community/blob/master/CONTRIBUTING.md).
 
 ## Contents
 
@@ -93,12 +87,10 @@ interwebs._
 
 This awesome list is an active open-source project and is always open to
 people who want to contribute to it. We have set up a separate document
-containing our [Contribution Guidelines](https://github.com/frenck/awesome-home-assistant/blob/master/CONTRIBUTING.md).
-
-The original setup of this awesome list is by [Franck Nijhof](https://twitter.com/frenck).
+containing our [Contribution Guidelines](https://github.com/mawinkler/trend-community/blob/master/CONTRIBUTING.md).
 
 For a full list of all authors and contributors, check the
-[contributor's page](https://github.com/frenck/awesome-home-assistant/graphs/contributors).
+[contributor's page](https://github.com/mawinkler/trend-community/graphs/contributors).
 
 Thank you for being involved! 😍
 
