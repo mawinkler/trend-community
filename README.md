@@ -29,7 +29,6 @@ please read the [guide](https://github.com/mawinkler/trend-community/blob/master
 - [Demo and Testing](#demo-and-testing)
 - [Vulnerability Management](#vulnerability-management)
 - [Uncategorized](#uncategorized)
-- [Other Awesome Lists](#other-awesome-lists)
 - [Trademark Legal Notice](#trademark-legal-notice)
 
 ## How to use
@@ -71,7 +70,7 @@ or just say ‘Hi’._
 - [Contributors](https://github.com/deep-security/) - All contributors to this awesome list.
 
 ## Learning
-_Environments for learninig, self-study and demoing._
+_Environments for learning, self-study and demoing._
 
 - [MOADSD-NG](https://github.com/mawinkler/moadsd-ng) - The MOADSD-NG project does provide a simple way to setup a hybrid cloud security demo, playground and learning environment within the clouds.
 - [MOADSD-NG-SERVER](https://github.com/mawinkler/moadsd-ng-server) - This repository provides a server container image for MOADSD-NG.
