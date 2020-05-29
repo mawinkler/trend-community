@@ -8,7 +8,7 @@
   <a href="https://github.com/mawinkler/trend-community/"><strong>https://github.com/mawinkler/trend-community/</strong></a>
 </div>
 
-Trend Micro offers multiple solutions helping to secure IT within different aspects of DevOps, Cloud Transition and Compliance challenges. Many of the sultutions are providing the possibilty to get automated by the use of APIs.
+Trend Micro offers multiple solutions helping to secure IT within different aspects of DevOps, Cloud Transition and Compliance challenges. Many of the solutions are providing the possibility to get automated by the use of APIs.
 
 Awesome Trend Community is a curated list of awesome
 [Trend Micro](https://www.trendmicro.com) resources, mainly developed and
