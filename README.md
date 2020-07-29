@@ -1,4 +1,4 @@
-# Awesome Trend Community [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
+# Awesome Trend Community
 
 <div align="center">
   <a href="https://github.com/mawinkler/trend-community/">
@@ -20,16 +20,20 @@ please read the [guide](https://github.com/mawinkler/trend-community/blob/master
 
 ## Contents
 
-- [How to use](#how-to-use)
-- [Cloud One](#cloud-one)
-- [In case you need help](#in-case-you-need-help)
-  - [Official Channels](#official-channels)
-  - [Other Channels](#other-channels)
-- [Learning](#learning)
-- [Demo and Testing](#demo-and-testing)
-- [Vulnerability Management](#vulnerability-management)
-- [Uncategorized](#uncategorized)
-- [Trademark Legal Notice](#trademark-legal-notice)
+- [Awesome Trend Community](#awesome-trend-community)
+  - [Contents](#contents)
+  - [How to use](#how-to-use)
+  - [Cloud One](#cloud-one)
+  - [In case you need help](#in-case-you-need-help)
+    - [Official Channels](#official-channels)
+    - [Other Channels](#other-channels)
+  - [Learning](#learning)
+  - [Demo and Testing](#demo-and-testing)
+  - [Vulnerability Management](#vulnerability-management)
+  - [Uncategorized](#uncategorized)
+  - [Contributing](#contributing)
+  - [Trademark Legal Notice](#trademark-legal-notice)
+  - [License](#license)
 
 ## How to use
 
@@ -67,9 +71,10 @@ or just say ‘Hi’._
 
 ### Other Channels
 
-- [Contributors](https://github.com/deep-security/) - All contributors to this awesome list.
+- [Contributors](https://github.com/mawinkler/trend-community/network/dependencies) - All contributors to this awesome list.
 
 ## Learning
+
 _Environments for learning, self-study and demoing._
 
 - [MOADSD-NG](https://github.com/mawinkler/moadsd-ng) - The MOADSD-NG project does provide a simple way to setup a hybrid cloud security demo, playground and learning environment within the clouds.
@@ -113,12 +118,9 @@ Thank you for being involved! 😍
 
 ## Trademark Legal Notice
 
-This Awesome list is not created, developed, affiliated, supported, maintained
-or endorsed by the Trend Micro organization.
+This Awesome list is not created, developed, affiliated, supported, maintained or endorsed by the Trend Micro organization.
 
-All product names, logos, brands, trademarks and registered trademarks are
-property of their respective owners. All company, product, and service names
-used in this list are for identification purposes only.
+All product names, logos, brands, trademarks and registered trademarks are property of their respective owners. All company, product, and service names used in this list are for identification purposes only.
 
 Use of these names, logos, trademarks, and brands does not imply endorsement.
 
