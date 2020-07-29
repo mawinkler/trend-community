@@ -88,6 +88,7 @@ _Applications developed for demoing and testing purposes._
 - [MoneyX](https://github.com/mawinkler/c1-app-sec-moneyx) - This is a sample, vulnerable-on-purpose, Java Spring application.
 - [Uploader](https://github.com/mawinkler/c1-app-sec-uploader) - This is a sample, vulnerable-on-purpose, PHP application.
 - [Troopers](https://github.com/mawinkler/troopers) - This is a sample Flask application with a vulnerable-on-purpose base image and a malicious image file.
+- [Tomcat](https://github.com/mawinkler/c1-app-sec-tomcat) - Tomcat example with CloudOne Application Security enabled.
 
 ## Vulnerability Management
 
@@ -96,6 +97,7 @@ _Tools and scripts in the scope of vulnerability management._
 - [Workload Security VM Integrations](https://github.com/mawinkler/vulnerability-management/tree/master/cloudone-workload-security) - Sample integrations of Workload Security with various vulnerability management tools.
 - [Image Security Reporting](https://github.com/mawinkler/vulnerability-management/tree/master/cloudone-image-security) - Reporting of Image Security to PDF with pipeline support.
 - [Image Security vs. Clair(ECR)](https://github.com/mawinkler/smartcheck-ecr-reporter) - Compares discovered vulnerabilities by Image Security aka. Smart Check and Clair(ECR).
+- [DS-Powershell](https://github.com/taralatech/DS-Powershell) - Powershell Scripts to report on and administer Deep Security Managers.
 
 ## Uncategorized
 
