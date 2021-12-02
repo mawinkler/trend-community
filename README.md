@@ -2,7 +2,7 @@
 
 <div align="center">
   <a href="https://github.com/mawinkler/trend-community/">
-    <img width="400" src="https://github.com/mawinkler/trend-community/blob/master/images/trend-laurel-wreath.400x400.png" alt="Awesome Trend Community">
+    <img width="400" src="images/trend-laurel-wreath.400x400.png" alt="Awesome Trend Community">
   </a>
   <br>
   <a href="https://github.com/mawinkler/trend-community/"><strong>https://github.com/mawinkler/trend-community/</strong></a>
