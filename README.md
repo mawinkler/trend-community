@@ -30,7 +30,7 @@ please read the [guide](https://github.com/mawinkler/trend-community/blob/master
   - [Learning](#learning)
   - [Cloud](#cloud)
   - [Cloud One Workload Security](#cloud-one-workload-security)
-    - [Cloud One Application Security](#cloud-one-application-security)
+  - [Cloud One Application Security](#cloud-one-application-security)
   - [Cloud One Container Security](#cloud-one-container-security)
   - [Reporting and Event Management](#reporting-and-event-management)
   - [Uncategorized](#uncategorized)
@@ -103,7 +103,7 @@ _Dealing with Vulnerabilities and Virtual Patching_
 - [Vulnerability Management](https://github.com/mawinkler/c1-ws-vulnerability-management) - Various scripts to help with vulnerabilities. Proof of concepts for vulnerability scanner integrations for Workload Securty, IPS rule assignments and Smart Check reporting.
 - [DS-Powershell](https://github.com/taralatech/DS-Powershell) - Powershell Scripts to report on and administer Deep Security Managers.
 
-### Cloud One Application Security
+## Cloud One Application Security
 
 - [Azure Function](https://github.com/mawinkler/c1-app-sec-azure-function) - This is a sample, vulnerable-on-purpose, Azure Function.
 - [Djangonv](https://github.com/mawinkler/c1-app-sec-djangonv) - This is a sample, vulnerable-on-purpose, Django application in Python.
