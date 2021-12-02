@@ -109,6 +109,7 @@ _Dealing with Vulnerabilities and Virtual Patching_
 - [Djangonv](https://github.com/mawinkler/c1-app-sec-djangonv) - This is a sample, vulnerable-on-purpose, Django application in Python.
 - [dotNET](https://github.com/mawinkler/c1-app-sec-dotnet) - This is a sample integration with dotNET.
 - [dotNET-Vulnerable](https://github.com/mawinkler/c1-app-sec-dotnet-vulnerable) - This is a sample, vulnerable-on-purpose, dotNET application.
+- [Java Goof] (https://github.com/andresark/java-goof-trend) - Intentionally vulnerable containerized Java/Maven To-Do List app, forked from [Snyk's Goof app](https://github.com/snyk-labs/java-goof)
 - [AWS Lambda](https://github.com/mawinkler/c1-app-sec-insekurestore) - This is a sample, vulnerable-on-purpose, Lambda driven web application.
 - [MoneyX](https://github.com/mawinkler/c1-app-sec-moneyx) - This is a sample, vulnerable-on-purpose, Java application.
 - [Node Express](https://github.com/mawinkler/c1-app-sec-node-express) - This is a sample, vulnerable-on-purpose, Node Express app.
