@@ -28,8 +28,11 @@ please read the [guide](https://github.com/mawinkler/trend-community/blob/master
     - [Official Channels](#official-channels)
     - [Other Channels](#other-channels)
   - [Learning](#learning)
-  - [Demo and Testing](#demo-and-testing)
-  - [Vulnerability Management](#vulnerability-management)
+  - [Cloud](#cloud)
+  - [Cloud One Workload Security](#cloud-one-workload-security)
+    - [Cloud One Application Security](#cloud-one-application-security)
+  - [Cloud One Container Security](#cloud-one-container-security)
+  - [Reporting and Event Management](#reporting-and-event-management)
   - [Uncategorized](#uncategorized)
   - [Contributing](#contributing)
   - [Trademark Legal Notice](#trademark-legal-notice)
@@ -67,6 +70,7 @@ or just say ‘Hi’._
 ### Official Channels
 
 - [Trend Micro](https://www.trendmicro.com/) - Trend Micro's official web site.
+- [GitHub Trend Micro](https://github.com/trendmicro/) - Official GitHub by Trend Micro.
 - [GitHub Trend Micro Deep Security](https://github.com/deep-security/) - Official GitHub for Deep-Security driven by Trend Micro.
 
 ### Other Channels
@@ -77,27 +81,53 @@ or just say ‘Hi’._
 
 _Environments for learning, self-study and demoing._
 
-- [MOADSD-NG](https://github.com/mawinkler/moadsd-ng) - The MOADSD-NG project does provide a simple way to setup a hybrid cloud security demo, playground and learning environment within the clouds.
-- [MOADSD-NG-SERVER](https://github.com/mawinkler/moadsd-ng-server) - This repository provides a server container image for MOADSD-NG.
+- [C1-Playground](https://github.com/mawinkler/c1-playground) - Ultra fast and slim kubernetes playground with Cloud One integrations (plus some goodies). Does create a local cluster but can also be used on EKS, AKS & GKE. Designed to be a great learning, testing and demo environment.
+- [API-Collector](https://github.com/mawinkler/api-collector) - Generic API-Collector implemented as a Custom Collector for Prometheus with Grafana. It supports pluggable collectors using code injection and updates at runtime! It's a good template for the use of different APIs. Integrated Solutions: WS, CS, AS, FSS, DSSC
 
-## Demo and Testing
+## Cloud
 
-_Applications developed for demoing and testing purposes._
+_Simplify your life in the clouds._
 
-- [Django](https://github.com/mawinkler/c1-app-sec-djangonv) - This is a sample, vulnerable-on-purpose, Django application.
-- [MoneyX](https://github.com/mawinkler/c1-app-sec-moneyx) - This is a sample, vulnerable-on-purpose, Java Spring application.
-- [Uploader](https://github.com/mawinkler/c1-app-sec-uploader) - This is a sample, vulnerable-on-purpose, PHP application.
-- [Troopers](https://github.com/mawinkler/troopers) - This is a sample Flask application with a vulnerable-on-purpose base image and a malicious image file.
-- [Tomcat](https://github.com/mawinkler/c1-app-sec-tomcat) - Tomcat example with CloudOne Application Security enabled.
+- [Multi Cloud Shell](https://github.com/mawinkler/mcs) - My way to go for dealing with AWS, Azure and GCP simultaneuosly. Provides a containerized working environment with persistence and ssh access. Start the container on any host and ssh into it.
 
-## Vulnerability Management
+## Cloud One Workload Security
 
-_Tools and scripts in the scope of vulnerability management._
+_Integrations developed with Orchestration Solutions._
 
-- [Workload Security VM Integrations](https://github.com/mawinkler/vulnerability-management/tree/master/cloudone-workload-security) - Sample integrations of Workload Security with various vulnerability management tools.
-- [Image Security Reporting](https://github.com/mawinkler/vulnerability-management/tree/master/cloudone-image-security) - Reporting of Image Security to PDF with pipeline support.
-- [Image Security vs. Clair(ECR)](https://github.com/mawinkler/smartcheck-ecr-reporter) - Compares discovered vulnerabilities by Image Security aka. Smart Check and Clair(ECR).
+- [Ansible Playbooks](https://github.com/mawinkler/c1-ws-ansible) - Demo Ansible playbooks for C1WS.
+- [Terraform Deploy Agents](https://github.com/mawinkler/c1-ws-terraform) - Deploy C1WS agents on Azure or AWS with Terraform.
+- [Custom Fact for Agents](https://github.com/mawinkler/c1-ws-facter-ansible) - Custom facts for C1WS Agents for Ansible.
+
+_Dealing with Vulnerabilities and Virtual Patching_
+
+- [Vulnerability Management](https://github.com/mawinkler/c1-ws-vulnerability-management) - Various scripts to help with vulnerabilities. Proof of concepts for vulnerability scanner integrations for Workload Securty, IPS rule assignments and Smart Check reporting.
 - [DS-Powershell](https://github.com/taralatech/DS-Powershell) - Powershell Scripts to report on and administer Deep Security Managers.
+
+### Cloud One Application Security
+
+- [Azure Function](https://github.com/mawinkler/c1-app-sec-azure-function) - This is a sample, vulnerable-on-purpose, Azure Function.
+- [Djangonv](https://github.com/mawinkler/c1-app-sec-djangonv) - This is a sample, vulnerable-on-purpose, Django application in Python.
+- [dotNET](https://github.com/mawinkler/c1-app-sec-dotnet) - This is a sample integration with dotNET.
+- [dotNET-Vulnerable](https://github.com/mawinkler/c1-app-sec-dotnet-vulnerable) - This is a sample, vulnerable-on-purpose, dotNET application.
+- [AWS Lambda](https://github.com/mawinkler/c1-app-sec-insekurestore) - This is a sample, vulnerable-on-purpose, Lambda driven web application.
+- [MoneyX](https://github.com/mawinkler/c1-app-sec-moneyx) - This is a sample, vulnerable-on-purpose, Java application.
+- [Node Express](https://github.com/mawinkler/c1-app-sec-node-express) - This is a sample, vulnerable-on-purpose, Node Express app.
+- [Petclinic](https://github.com/mawinkler/c1-app-sec-spring-petclinic) - This is a sample integration with Java Spring.
+- [Tomcat](https://github.com/mawinkler/c1-app-sec-tomcat) - This is a sample, vulnerable-on-purpose, Tomcat application.
+- [Uploader](https://github.com/mawinkler/c1-app-sec-uploader) - This is a sample, vulnerable-on-purpose, Apache PHP application.
+
+## Cloud One Container Security
+
+- [Event Query](https://github.com/mawinkler/c1-cs-event-query) - Query evaluation events from C1CS to tune your policy easily.
+- [Smart Check Scan Queue Cleaner](https://github.com/mawinkler/c1-cs-clean-queue) - Cleans pending scan tasks from Smart Check. Works well even with a high number of pending tasks.
+- [Smart Check on DSSC](https://github.com/mawinkler/c1-cs-smartcheck-on-openshift) - How to get Smart Check up and running on OpenShift clusters (not finetuned).
+- [Slack Dispatcher](https://github.com/mawinkler/c1-cs-smartcheck-slack-dispatcher) - Dispatch Smart Check webhook events to Slack
+
+## Reporting and Event Management
+
+- [AM & IPS Reports](https://github.com/mawinkler/c1-ws-reporting) - Reporting of AM events in C1WS, assigned IPS roles and rule inventory.
+- [Host Protection Report](https://github.com/mawinkler/ds-host-protection-report) - Custom host protection module reporter for DSM.
+- [Event Digger](https://github.com/mawinkler/event-digger) - Example REACT app to quickly search through C1WS events. Uses an Elasticserch engine to get instant results.
 
 ## Uncategorized
 
