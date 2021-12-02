@@ -105,6 +105,7 @@ _Dealing with Vulnerabilities and Virtual Patching_
 
 ## Cloud One Application Security
 
+- [Serverless App](https://github.com/JustinDPerkins/vulnerable-serverless-application-python) - Sample vulnerable AWS serverless application in Python.
 - [Azure Function](https://github.com/mawinkler/c1-app-sec-azure-function) - This is a sample, vulnerable-on-purpose, Azure Function.
 - [Djangonv](https://github.com/mawinkler/c1-app-sec-djangonv) - This is a sample, vulnerable-on-purpose, Django application in Python.
 - [dotNET](https://github.com/mawinkler/c1-app-sec-dotnet) - This is a sample integration with dotNET.
