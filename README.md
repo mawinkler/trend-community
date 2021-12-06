@@ -82,7 +82,7 @@ or just say ‘Hi’._
 _Environments for learning, self-study and demoing._
 
 - [C1-Playground](https://github.com/mawinkler/c1-playground) - Ultra fast and slim kubernetes playground with Cloud One integrations (plus some goodies). Does create a local cluster but can also be used on EKS, AKS & GKE. Designed to be a great learning, testing and demo environment.
-- [API-Collector](https://github.com/mawinkler/api-collector) - Generic API-Collector implemented as a Custom Collector for Prometheus with Grafana. It supports pluggable collectors using code injection and updates at runtime! It's a good template for the use of different APIs. Integrated Solutions: WS, CS, AS, FSS, DSSC
+- [API-Collector](https://github.com/mawinkler/api-collector) - Generic API-Collector implemented as a Custom Collector for Prometheus with Grafana. It supports pluggable collectors using code injection and updates at runtime! It's a good template for the use of different APIs. Integrated Solutions: WS, CS, AS, FSS, DSSC.
 
 ## Cloud
 
@@ -123,8 +123,8 @@ _Dealing with Vulnerabilities and Virtual Patching_
 - [Event Query](https://github.com/mawinkler/c1-cs-event-query) - Query evaluation events from C1CS to tune your policy easily.
 - [Smart Check Scan Queue Cleaner](https://github.com/mawinkler/c1-cs-clean-queue) - Cleans pending scan tasks from Smart Check. Works well even with a high number of pending tasks.
 - [Smart Check on DSSC](https://github.com/mawinkler/c1-cs-smartcheck-on-openshift) - How to get Smart Check up and running on OpenShift clusters (not finetuned).
-- [Slack Dispatcher](https://github.com/mawinkler/c1-cs-smartcheck-slack-dispatcher) - Dispatch Smart Check webhook events to Slack
-- [Export Scan Results](https://github.com/cvdabbeele/smartCheckSecurityPosture) - Export critical scan findings from Smart Check to csv file
+- [Slack Dispatcher](https://github.com/mawinkler/c1-cs-smartcheck-slack-dispatcher) - Dispatch Smart Check webhook events to Slack.
+- [Export Scan Results](https://github.com/cvdabbeele/smartCheckSecurityPosture) - Export critical scan findings from Smart Check to csv file.
 
 ## Reporting and Event Management
 
