@@ -124,6 +124,7 @@ _Dealing with Vulnerabilities and Virtual Patching_
 - [Smart Check Scan Queue Cleaner](https://github.com/mawinkler/c1-cs-clean-queue) - Cleans pending scan tasks from Smart Check. Works well even with a high number of pending tasks.
 - [Smart Check on DSSC](https://github.com/mawinkler/c1-cs-smartcheck-on-openshift) - How to get Smart Check up and running on OpenShift clusters (not finetuned).
 - [Slack Dispatcher](https://github.com/mawinkler/c1-cs-smartcheck-slack-dispatcher) - Dispatch Smart Check webhook events to Slack
+- [Export Scan Results](https://github.com/cvdabbeele/smartCheckSecurityPosture) - Export critical scan findings from Smart Check to csv file
 
 ## Reporting and Event Management
 
