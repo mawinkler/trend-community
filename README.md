@@ -146,6 +146,7 @@ _Various tools and integrations for Container Security._
 - [Smart Check on OpenShift](https://github.com/mawinkler/c1-cs-smartcheck-on-openshift) - How to get Smart Check up and running on OpenShift clusters (not finetuned).
 - [Slack Dispatcher](https://github.com/mawinkler/c1-cs-smartcheck-slack-dispatcher) - Dispatch Smart Check webhook events to Slack.
 - [Export Scan Results](https://github.com/cvdabbeele/smartCheckSecurityPosture) - Export critical scan findings from Smart Check to csv file.
+- [Vulnerability Remediation](https://github.com/mpkondrashin/vulrem) - Auto tune Deep/Workload Security policy according to Smart Check findings.
 
 ## Vision One
 
