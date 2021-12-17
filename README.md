@@ -131,7 +131,7 @@ _Demo applications showing the simplicity and value of adding Application Securi
 - [dotNET-Vulnerable](https://github.com/mawinkler/c1-app-sec-dotnet-vulnerable) - This is a sample, vulnerable-on-purpose, dotNET application.
 - [Java Goof](https://github.com/andresark/java-goof-trend) - Intentionally vulnerable containerized Java/Maven To-Do List app, forked from [Snyk's Goof app](https://github.com/snyk-labs/java-goof).
 - [AWS Lambda](https://github.com/mawinkler/c1-app-sec-insekurestore) - This is a sample, vulnerable-on-purpose, Lambda driven web application.
-- [log4shell-vulnerable-app-c1as](https://github.com/andresark/log4shell-vulnerable-app-c1as) - Intentionally vulnerable app to demonstrate protections against [log4shell.](https://success.trendmicro.com/solution/000289940)
+- [log4shell-vulnerable-app-c1as](https://github.com/andresark/log4shell-vulnerable-app-c1as) - Intentionally vulnerable app to demonstrate protections against [log4shell](https://success.trendmicro.com/solution/000289940).
 - [MoneyX](https://github.com/mawinkler/c1-app-sec-moneyx) - This is a sample, vulnerable-on-purpose, Java application.
 - [Node Express](https://github.com/mawinkler/c1-app-sec-node-express) - This is a sample, vulnerable-on-purpose, Node Express app.
 - [Petclinic](https://github.com/mawinkler/c1-app-sec-spring-petclinic) - This is a sample integration with Java Spring.
