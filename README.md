@@ -120,6 +120,10 @@ _Reporting and Event Management._
 - [Host Protection Report](https://github.com/mawinkler/ds-host-protection-report) - Custom host protection module reporter for DSM.
 - [Event Digger](https://github.com/mawinkler/event-digger) - Example REACT app to quickly search through C1WS events. Uses an Elasticserch engine to get instant results.
 
+_Policy Management._
+
+- [Anti Malware Scan Configuration Manager](https://github.com/mawinkler/c1-ws-am-policymgr) - Anti Malware Scan Configuration Manager.
+
 ## Cloud One Application Security
 
 _Demo applications showing the simplicity and value of adding Application Security to your apps._
@@ -145,6 +149,7 @@ _Various tools and integrations for Container Security._
 - [Event Query](https://github.com/mawinkler/c1-cs-event-query) - Query evaluation events from C1CS to tune your policy easily.
 - [Smart Check Scan Queue Cleaner](https://github.com/mawinkler/c1-cs-clean-queue) - Cleans pending scan tasks from Smart Check. Works well even with a high number of pending tasks.
 - [Smart Check on OpenShift](https://github.com/mawinkler/c1-cs-smartcheck-on-openshift) - How to get Smart Check up and running on OpenShift clusters (not finetuned).
+- [Smart Check Scan-Report](https://github.com/mawinkler/c1-cs-scan-report) - Create scan report as PDF.
 - [Slack Dispatcher](https://github.com/mawinkler/c1-cs-smartcheck-slack-dispatcher) - Dispatch Smart Check webhook events to Slack.
 - [Export Scan Results](https://github.com/cvdabbeele/smartCheckSecurityPosture) - Export critical scan findings from Smart Check to csv file.
 - [Vulnerability Remediation](https://github.com/mpkondrashin/vulrem) - Auto tune Deep/Workload Security policy according to Smart Check findings.
@@ -155,6 +160,7 @@ _Using Vision One like a Pro._
 
 - [Search Queries by examples](https://github.com/girdav01/TMHunting/blob/main/hunting-recipies.md) - Trend Micro XDR/Vision One Hunting Recipes.
 - [Detection Model Counter](https://github.com/OmarEzzat145/V1-Model-Counter) - Trend Micro Vision One Detection Model Counter.
+
 ## References
 
 _Links to API documentations._
