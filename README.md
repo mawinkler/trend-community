@@ -152,7 +152,7 @@ _Various tools and integrations for Container Security._
 _Using Vision One like a Pro._
 
 - [Search Queries by examples](https://github.com/girdav01/TMHunting/blob/main/hunting-recipies.md) - Trend Micro XDR/Vision One Hunting Recipes.
-
+- [Detection Model Counter](https://github.com/OmarEzzat145/V1-Model-Counter) - Trend Micro Vision One Detection Model Counter.
 ## References
 
 _Links to API documentations._
