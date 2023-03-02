@@ -57,6 +57,7 @@ Trend Micro Cloud One is a security services platform for cloud builders, design
 
 Cloud One currently _combines_ the following services into one solution:
 
+- [Sentry](https://www.trendmicro.com/en_us/business/products/hybrid-cloud/cloud-sentry.html) - Inspect your environment in minutes, gain insight into threats.
 - [Workload Security](https://www.trendmicro.com/en_us/business/products/hybrid-cloud/cloud-one-workload-security.html) - Runtime protection for workloads (virtual, physical, cloud, and containers).
 - [Container Security](https://www.trendmicro.com/en_us/business/products/hybrid-cloud/cloud-one-container-image-security.html) - Image scanning in your build pipeline.
 - [File Storage Security](https://www.trendmicro.com/en_us/business/products/hybrid-cloud/cloud-one-file-storage-security.html) - Security for cloud file and object storage services.
