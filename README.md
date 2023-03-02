@@ -30,6 +30,7 @@ please read the [guide](https://github.com/mawinkler/trend-community/blob/master
     - [Official Channels](#official-channels)
   - [Learning](#learning)
   - [Cloud](#cloud)
+  - [Cloud One Sentry](#cloud-one-sentry)
   - [Cloud One Workload Security](#cloud-one-workload-security)
   - [Cloud One Application Security](#cloud-one-application-security)
   - [Cloud One Container Security](#cloud-one-container-security)
@@ -100,6 +101,12 @@ _Environments for learning, self-study and demoing._
 _Simplify your life in the clouds._
 
 - [Multi Cloud Shell](https://github.com/mawinkler/mcs) - My way to go for dealing with AWS, Azure and GCP simultaneuosly. Provides a containerized working environment with persistence and ssh access. Start the container on any host and ssh into it.
+
+## Cloud One Sentry
+
+Tools for Sentry
+
+- [Sentry Reports to CloudWatch](https://github.com/mawinkler/c1-sentry-reports-to-cloudwatch) - A simply way to feed CloudWatch with Sentry reports chronologically.
 
 ## Cloud One Workload Security
 
